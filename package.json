@@ -1,0 +1,37 @@
+{
+  "name": "oversea-dealer-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.10",
+    "@mui/material": "^5.15.10",
+    "@next/font": "^14.1.0",
+    "axios": "^1.1.3",
+    "i18next": "^22.0.3",
+    "next": "^13.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^12.0.0",
+    "react-modal": "^3.16.1"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.2",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "@types/react-modal": "^3.13.1",
+    "autoprefixer": "^10.4.12",
+    "eslint": "8.25.0",
+    "eslint-config-next": "^13.0.0",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.0",
+    "typescript": "4.8.4"
+  }
+}
